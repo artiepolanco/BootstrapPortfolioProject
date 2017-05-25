@@ -21,7 +21,7 @@
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 240px;
-  background-color: #777;
+  background-color: #29B4BF;
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -46,7 +46,7 @@
 -------------------------------------------------- */
 
 .marketing {
-  margin: 60px auto;
+  margin: 40px auto;
 }
 
 .marketing .col-md-4 {
@@ -86,7 +86,7 @@ footer {
   background: #444;
   color: white;
   text-shadow: 1px 1px 1px black;
-  padding: 40px 0;
+  padding: 0;
 }
 
 /* RESPONSIVE CSS
